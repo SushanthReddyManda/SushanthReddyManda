@@ -84,7 +84,7 @@ Here are some ideas to get you started: -->
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SushanthReddyManda&repo=VelocityX&theme=light" />
 </a> -->
 
-<div align="center" style="display:none">
+<div align="center" disable>
 
 ### Show some ❤️ by starring some of the repositories!
 
