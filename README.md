@@ -16,7 +16,9 @@ Here are some ideas to get you started: -->
 
 ## Hola, I'm [Sushanth Reddy Manda!]() 👋
 
-<p align="left" style="display:none"> <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic" style="display:none" alt="sushanth" /> </p>
+<p align="left" style="display:none"> 
+  <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic" style="display:none" alt="sushanth" /> 
+</p>
 
 <!-- <a href="https://twitter.com/imthepk">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -82,7 +84,7 @@ Here are some ideas to get you started: -->
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SushanthReddyManda&repo=VelocityX&theme=light" />
 </a> -->
 
-<div align="center">
+<div align="center" style="display:none">
 
 ### Show some ❤️ by starring some of the repositories!
 
