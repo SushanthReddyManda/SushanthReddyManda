@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## Hola, I'm [Sushanth Reddy Manda!] 👋
+## Hola, I'm [Sushanth Reddy Manda!]() 👋
 
 <p align="left" style="display:none"> <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic" style="display:none" alt="sushanth" /> </p>
 
