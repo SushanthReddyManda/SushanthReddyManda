@@ -18,27 +18,27 @@ Here are some ideas to get you started: -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<a href="https://twitter.com/imthepk">
+<!-- <a href="https://twitter.com/imthepk">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> -->
+<a href="https://linkedin.com/in/sushanth2h">
+  <img align="left" alt="Sushanth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://github.com/SushanthReddyManda">
+  <img align="left" alt="Sushanth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://github.com/iampawan">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://t.me/sushanth2h">
+  <img align="left" alt="Sushanth's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://instagram.com/_sushanth._.reddy._/">
+  <img align="left" alt="Sushanth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://instagram.com/codepur_ka_superhero/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.facebook.com/sushanthreddy.manda">
+  <img align="left" alt="Sushanth's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.facebook.com/imthepk/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/mtechviral/">
+<!-- <a href="https://www.youtube.com/mtechviral/">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+</a> -->
 
 <br/>
 <br/>
@@ -49,7 +49,8 @@ Here are some ideas to get you started: -->
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
 <!-- - 🤔 I’m looking for help with VelocityX documentation. -->
 <!-- - 💬 Ask me about Flutter or any tech-related stuff. -->
-- 📫 How to reach me: [Email - sushanth2h@gmail.com](mailto:sushanth2h@gmail.com) , [Linkedin - linkedin/in/sushanth2h](https://www.linkedin.com/in/sushanth2h/)
+- 📫 How to reach me: [Email - sushanth2h@gmail.com](mailto:sushanth2h@gmail.com) 
+<!-- , [Linkedin - linkedin/in/sushanth2h](https://www.linkedin.com/in/sushanth2h/) -->
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to cook, Read Novels.
 
