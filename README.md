@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 ## Hola, I'm [Sushanth Reddy Manda!](https://pawan.live) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic" alt="sushanth" /> </p>
+<p align="left" style="display:none"> <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic" alt="sushanth" /> </p>
 
 <!-- <a href="https://twitter.com/imthepk">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
