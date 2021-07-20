@@ -43,14 +43,14 @@ Here are some ideas to get you started: -->
 <br/>
 <br/>
 
-
-- 🔭 I’m currently studying Mathematics and computing, prefinal year; IIT Guwahati.
-- 🌱 I’m currently learning more about BlockChain, Flutter and React.
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
 <!-- - 🤔 I’m looking for help with VelocityX documentation. -->
 <!-- - 💬 Ask me about Flutter or any tech-related stuff. -->
-- 📫 How to reach me: [Email - sushanth2h@gmail.com](mailto:sushanth2h@gmail.com) 
 <!-- , [Linkedin - linkedin/in/sushanth2h](https://www.linkedin.com/in/sushanth2h/) -->
+
+- 🔭 I’m currently studying Mathematics and computing, prefinal year; IIT Guwahati.
+- 🌱 I’m currently learning more about BlockChain, Flutter and React.
+- 📫 How to reach me: [Email - sushanth2h@gmail.com](mailto:sushanth2h@gmail.com) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to cook, Read Novels.
 
