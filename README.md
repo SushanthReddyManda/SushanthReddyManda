@@ -16,9 +16,9 @@ Here are some ideas to get you started: -->
 
 ## Hola, I'm [Sushanth Reddy Manda!]() 👋
 
-<p align="left" style="display:none"> 
+<!-- <p align="left" style="display:none"> 
   <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic" style="display:none" alt="sushanth" /> 
-</p>
+</p> -->
 
 <!-- <a href="https://twitter.com/imthepk">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -52,7 +52,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently studying Mathematics and computing, prefinal year; IIT Guwahati.
 - 🌱 I’m currently learning more about BlockChain, Flutter and React.
-- 📫 How to reach me: [Email - sushanth2h@gmail.com](mailto:sushanth2h@gmail.com) 
+- 📫 How to reach me: [Email - manda.sushanth@gmail.com](mailto:manda.sushanth@gmail.com) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to cook, Read Novels.
 
@@ -71,11 +71,11 @@ Here are some ideas to get you started: -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/SushanthReddyManda">
+<!-- <a href="https://github.com/SushanthReddyManda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushanthReddyManda&theme=light&hide_langs_below=1" />
-</a>
+</a> -->
 <a href="https://github.com/SushanthReddyManda">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SushanthReddyManda&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SushanthReddyManda&show_icons=true&theme=light&line_height=27" alt="Sushanth's github stats"/>
 </a>
 <!-- <a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SushanthReddyManda&repo=FlutterExampleApps&theme=light" />
