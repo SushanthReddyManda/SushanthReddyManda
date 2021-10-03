@@ -63,6 +63,7 @@ Here are some ideas to get you started: -->
 
 
 **Languages and Tools:**  
+<p align = "center">
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -81,6 +82,8 @@ Here are some ideas to get you started: -->
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 
+</p>
+  
 <!-- <a href="https://github.com/SushanthReddyManda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushanthReddyManda&theme=light&hide_langs_below=1" />
 </a> -->
