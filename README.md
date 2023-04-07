@@ -21,11 +21,10 @@ Sushanth</a></h1>
   <img align="left" alt="Sushanth's Instagram" width="40px" src="https://img.icons8.com/doodle/1x/instagram-new.png" />
 </a> 
 
-<br />
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
-<p style= "padding-top:10px"> 
+<a style= "padding-top:10px"> 
   <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic"  alt="sushanth" /> 
-</p>
+</a>
 
 <br />
 
