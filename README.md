@@ -6,31 +6,32 @@
 Sushanth</a></h1>
 <h3 align="center">Holds interest in App-development and AI/ML &#127470</h3>
 
- <a href="https://linkedin.com/in/sushanth2h">
+<p align = "left"> <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Profile Views&color=blue&style=plastic" alt="sushanth" /> </p>
+
+<p align="left"> 
+<a target="_blank" href="https://linkedin.com/in/sushanth2h">
   <img align="left" alt="Sushanth's LinkedIN" width="40px" src="https://img.icons8.com/doodle/1x/linkedin--v2.png" />
 </a>
 
-<a href="https://twitter.com/MandaSushanth_R">
+<a target="_blank" href="https://twitter.com/MandaSushanth_R">
   <img align="left" alt="Sushanth Reddy | Twitter" width="40px" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" />
 </a>
-<a href="https://www.youtube.com/@sushanthreddymanda/">
+
+<a target="_blank" href="https://www.youtube.com/@sushanthreddymanda/">
   <img align="left" alt="Sushanth's Youtube" width="40px" src="https://img.icons8.com/doodle/1x/youtube-play.png" />
 </a>
 
-<a href="https://www.instagram.com/sushanth.reddy._/">
+<a target="_blank" href="https://www.instagram.com/sushanth.reddy._/">
   <img align="left" alt="Sushanth's Instagram" width="40px" src="https://img.icons8.com/doodle/1x/instagram-new.png" />
 </a> 
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
-<a style= "padding-top:10px"> 
-  <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic"  alt="sushanth" /> 
-</a>
-
-<br />
+</p>
+<br/>
 
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
-<!-- Hi, i'm [Sushanth Reddy Manda],  -->
+<br />
+
+
 - I’m currently studying Mathematics and computing, final year; IIT Guwahati.
 - Proficient in C++, Python, Java script and actively into competetive coding.
 - 🌱 Presently working on an Ad tech service platform.
@@ -41,8 +42,6 @@ Sushanth</a></h1>
 - 💬 ask me about anything, i am happy to help; [email](mailto:manda.sushanth@gmail.com) :) 
 
 
-
-<br />
 
 **Languages and tools:**  
 <br>
