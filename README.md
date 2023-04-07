@@ -6,27 +6,27 @@
 Sushanth</a></h1>
 <h3 align="center">Holds interest in App-development and AI/ML &#127470</h3>
 
-<a href="https://linkedin.com/in/sushanth2h">
-  <img align="left" alt="Sushanth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ <a href="https://linkedin.com/in/sushanth2h">
+  <img align="left" alt="Sushanth's LinkedIN" width="40px" src="https://img.icons8.com/doodle/1x/linkedin--v2.png" />
 </a>
 
 <a href="https://twitter.com/MandaSushanth_R">
-  <img align="left" alt="Sushanth Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sushanth Reddy | Twitter" width="40px" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" />
 </a>
 <a href="https://www.youtube.com/@sushanthreddymanda/">
-  <img align="left" alt="Sushanth's Youtube" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/youtube.png" />
+  <img align="left" alt="Sushanth's Youtube" width="40px" src="https://img.icons8.com/doodle/1x/youtube-play.png" />
 </a>
 
 <a href="https://www.instagram.com/sushanth.reddy._/">
-  <img align="left" alt="Sushanth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+  <img align="left" alt="Sushanth's Instagram" width="40px" src="https://img.icons8.com/doodle/1x/instagram-new.png" />
+</a> 
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
-<p align="left" style="display:none"> 
-  <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic" style="display:none" alt="sushanth" /> 
+<p style= "margin-bottom:5px;padding-top:10px"> 
+  <img style="padding-top:10px" src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic"  alt="sushanth" /> 
 </p>
 
-<!-- <br /> -->
+<br />
 
 
 <!-- Hi, i'm [Sushanth Reddy Manda],  -->
@@ -64,11 +64,11 @@ Sushanth</a></h1>
 ### Show some ❤️ by starring some of the repositories!
 
 </div> -->
- <a style="margin-left: 10px;" target="_blank" href="https://github.com/Memomer">
+<!--  <a style="margin-left: 10px;" target="_blank" href="https://github.com/Memomer">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		
 <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/JaggeryDev10">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> -->
       
 
 
@@ -90,6 +90,21 @@ Sushanth</a></h1>
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> -->
 
+
+<!-- <a href="https://linkedin.com/in/sushanth2h">
+  <img align="left" alt="Sushanth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/MandaSushanth_R">
+  <img align="left" alt="Sushanth Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/@sushanthreddymanda/">
+  <img align="left" alt="Sushanth's Youtube" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/youtube.png" />
+</a>
+
+<a href="https://www.instagram.com/sushanth.reddy._/">
+  <img align="left" alt="Sushanth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a> -->
 
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
 <!-- - 🤔 I’m looking for help with VelocityX documentation. -->
