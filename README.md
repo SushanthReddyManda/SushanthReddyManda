@@ -17,8 +17,6 @@
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> -->
 
-<br/>
-<br/>
 
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
 <!-- - 🤔 I’m looking for help with VelocityX documentation. -->
@@ -32,25 +30,26 @@
 - ⚡ Fun fact: I love to cook, Read Novels. -->
 
 <!-- [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk) -->
-[![Linkedin: imthepk](https://img.shields.io/badge/-SushanthReddyManda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushanth2h/)](https://www.linkedin.com/in/sushanth2h/)
-[![GitHub iampawan](https://img.shields.io/github/followers/SushanthReddyManda?label=follow&style=social)](https://github.com/SushanthReddyManda)
+<!-- [![Linkedin: imthepk](https://img.shields.io/badge/-SushanthReddyManda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushanth2h/)](https://www.linkedin.com/in/sushanth2h/) -->
+<!-- [![GitHub iampawan](https://img.shields.io/github/followers/SushanthReddyManda?label=follow&style=social)](https://github.com/SushanthReddyManda) -->
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/) -->
 
 
 <!-- ### Hey there  -->
-<a href="https://www.instagram.com/sushanth.reddy._/">
-  <img align="left" alt="Sushanth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+
+<a href="https://linkedin.com/in/sushanth2h">
+  <img align="left" alt="Sushanth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/MandaSushanth_R">
   <img align="left" alt="Sushanth Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/@sushanthreddymanda/">
-  <img align="left" alt="Sushanth's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Sushanth's Youtube" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/youtube.png" />
 </a>
 
-<a href="https://linkedin.com/in/sushanth2h">
-  <img align="left" alt="Sushanth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.instagram.com/sushanth.reddy._/">
+  <img align="left" alt="Sushanth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
