@@ -21,13 +21,15 @@ Sushanth</a></h1>
   <img align="left" alt="Sushanth's Instagram" width="40px" src="https://img.icons8.com/doodle/1x/instagram-new.png" />
 </a> 
 
+<br />
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
-<p style= "margin-bottom:5px;padding-top:10px"> 
-  <img style="padding-top:10px" src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic"  alt="sushanth" /> 
+<p style= "padding-top:10px"> 
+  <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic"  alt="sushanth" /> 
 </p>
 
 <br />
 
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 <!-- Hi, i'm [Sushanth Reddy Manda],  -->
 - I’m currently studying Mathematics and computing, final year; IIT Guwahati.
@@ -39,9 +41,9 @@ Sushanth</a></h1>
 - ⚡ Fun fact: I love to cook, read Books and play football.
 - 💬 ask me about anything, i am happy to help; [email](mailto:manda.sushanth@gmail.com) :) 
 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 
+<br />
 
 **Languages and tools:**  
 <br>
