@@ -1,31 +1,17 @@
-<!-- ### Hi there 👋 -->
 
-<!-- 
-**SushanthReddyManda/SushanthReddyManda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+## Hey There, I'm [Sushanth Reddy Manda!]() 👋
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-## Hola, I'm [Sushanth Reddy Manda!]() 👋
-
-<p align="left" style="display:none"> 
+<!-- <p align="left" style="display:none"> 
   <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic" style="display:none" alt="sushanth" /> 
 </p>
-
+ -->
 <!-- <a href="https://twitter.com/imthepk">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
-<a href="https://linkedin.com/in/sushanth2h">
+<!-- <a href="https://linkedin.com/in/sushanth2h">
   <img align="left" alt="Sushanth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> -->
 
 <!-- <a href="https://www.youtube.com/mtechviral/">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
@@ -39,11 +25,11 @@ Here are some ideas to get you started: -->
 <!-- - 💬 Ask me about Flutter or any tech-related stuff. -->
 <!-- , [Linkedin - linkedin/in/sushanth2h](https://www.linkedin.com/in/sushanth2h/) -->
 
-- 🔭 I’m currently studying Mathematics and computing, prefinal year; IIT Guwahati.
+<!-- - 🔭 I’m currently studying Mathematics and computing, prefinal year; IIT Guwahati.
 - 🌱 I’m currently learning more about BlockChain, Flutter and React.
 - 📫 How to reach me: [Email - manda.sushanth@gmail.com](mailto:manda.sushanth@gmail.com) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to cook, Read Novels.
+- ⚡ Fun fact: I love to cook, Read Novels. -->
 
 <!-- [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk) -->
 [![Linkedin: imthepk](https://img.shields.io/badge/-SushanthReddyManda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushanth2h/)](https://www.linkedin.com/in/sushanth2h/)
@@ -51,7 +37,7 @@ Here are some ideas to get you started: -->
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/) -->
 
 
-### Hey there 
+<!-- ### Hey there  -->
 <a href="https://www.instagram.com/sushanth.reddy._/">
   <img align="left" alt="Sushanth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -59,6 +45,10 @@ Here are some ideas to get you started: -->
 <a href="https://twitter.com/MandaSushanth_R">
   <img align="left" alt="Sushanth Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://www.youtube.com/@sushanthreddymanda/">
+  <img align="left" alt="Sushanth's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
 <a href="https://linkedin.com/in/sushanth2h">
   <img align="left" alt="Sushanth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -70,9 +60,14 @@ Here are some ideas to get you started: -->
 
 <br />
 
-Hi, i'm [Sushanth Reddy Manda], a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Sushanth Reddy Manda], 
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+
+<!-- a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
