@@ -1,6 +1,10 @@
 
 
-## Hey There, I'm [Sushanth Reddy Manda!]() 👋
+<!-- ## Hey There, I'm [Sushanth Reddy Manda!]() 👋 -->
+
+<h1 align="center">Hi 👋, I'm <a href="" target="blank">
+Sushanth Reddy M</a></h1>
+<h3 align="center">Holds interest in web-development and AI/ML &#127470</h3>
 
 <!-- <p align="left" style="display:none"> 
   <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic" style="display:none" alt="sushanth" /> 
@@ -59,8 +63,18 @@
 
 <br />
 
-Hi, i'm [Sushanth Reddy Manda], 
+<!-- Hi, i'm [Sushanth Reddy Manda],  -->
 
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 🤔 I’m looking for help with VelocityX documentation.
+- 💬 Ask me about Flutter or any tech-related stuff.
+, [Linkedin - linkedin/in/sushanth2h](https://www.linkedin.com/in/sushanth2h/)
+
+- 🔭 I’m currently studying Mathematics and computing, prefinal year; IIT Guwahati.
+- 🌱 I’m currently learning more about BlockChain, Flutter and React.
+- 📫 How to reach me: [Email - manda.sushanth@gmail.com](mailto:manda.sushanth@gmail.com) 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love to cook, Read Novels.
 
 
 
