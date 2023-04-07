@@ -3,8 +3,8 @@
 <!-- ## Hey There, I'm [Sushanth Reddy Manda!]() 👋 -->
 
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">
-Sushanth Reddy M</a></h1>
-<h3 align="center">Holds interest in web-development and AI/ML &#127470</h3>
+Sushanth</a></h1>
+<h3 align="center">Holds interest in App-development and AI/ML &#127470</h3>
 
 <!-- <p align="left" style="display:none"> 
   <img src="https://komarev.com/ghpvc/?username=SushanthReddyManda&label=Views&color=blue&style=plastic" style="display:none" alt="sushanth" /> 
@@ -28,7 +28,7 @@ Sushanth Reddy M</a></h1>
 <!-- , [Linkedin - linkedin/in/sushanth2h](https://www.linkedin.com/in/sushanth2h/) -->
 
 <!-- - 🔭 I’m currently studying Mathematics and computing, prefinal year; IIT Guwahati.
-- 🌱 I’m currently learning more about BlockChain, Flutter and React.
+- 🤔 I’m currently learning more about BlockChain, Flutter and React.
 - 📫 How to reach me: [Email - manda.sushanth@gmail.com](mailto:manda.sushanth@gmail.com) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to cook, Read Novels. -->
@@ -64,17 +64,15 @@ Sushanth Reddy M</a></h1>
 <br />
 
 <!-- Hi, i'm [Sushanth Reddy Manda],  -->
-
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
-, [Linkedin - linkedin/in/sushanth2h](https://www.linkedin.com/in/sushanth2h/)
-
-- 🔭 I’m currently studying Mathematics and computing, prefinal year; IIT Guwahati.
-- 🌱 I’m currently learning more about BlockChain, Flutter and React.
-- 📫 How to reach me: [Email - manda.sushanth@gmail.com](mailto:manda.sushanth@gmail.com) 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to cook, Read Novels.
+- I’m currently studying Mathematics and computing, final year; IIT Guwahati.
+- Proficient in C++, Python, Java script and actively into competetive coding.
+- 🌱 Presently working on an Ad tech service platform.
+- 🔭 I'm currently Learning Java, Spring boot, Grafanna ...
+- 🤔 Researching more about Creator ecosytems in different feilds and related machine learning models.
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/@sushanthreddymanda/).
+<!-- - 📫 How to reach me: [Email - manda.sushanth@gmail.com](mailto:manda.sushanth@gmail.com)  -->
+<!-- - 😄 Pronouns: He/His -->
+- ⚡ Fun fact: I love to cook, read Books and play football.
 
 
 
@@ -85,8 +83,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:manda.sushanth@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+<!-- - 💼 any freelance work? do reach, [email](mailto:manda.sushanth@gmail.com) :) -->
+- 💬 ask me about anything, i am happy to help; [email](mailto:manda.sushanth@gmail.com) :) 
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> </code>
